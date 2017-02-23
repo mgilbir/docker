@@ -1,4 +1,4 @@
-FROM golang:1.7.4
+FROM golang:1.8.0
 
 MAINTAINER Miguel Eduardo Gil Biraud <miguel.gil.biraud@ieee.org>
 
